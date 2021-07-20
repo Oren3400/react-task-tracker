@@ -3,4 +3,6 @@
 This project build with a mock back-end json-server watching a file db.json.
 
 ## You will need 2 commends.
-npm run server - to start the fake server, npm start - to start the front
+npm run server - to start the fake server
+
+npm start - to start the front
