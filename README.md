@@ -2,7 +2,7 @@
 
 This project build with a mock back-end json-server watching a file db.json.
 
-## You will need 3 commends.
+## You will need 4 commands.
 npm install - Install dependencies
 
 npm start - Run React dev server (http://localhost:3000)
