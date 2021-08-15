@@ -2,7 +2,9 @@
 
 This project build with a mock back-end json-server watching a file db.json.
 
-## You will need 2 commends.
-npm run server - to start the fake server
+## You will need 3 commends.
+npm install - Install dependencies
 
-npm start - to start the front
+npm run server - Run the JSON server
+
+npm start - Run React server
