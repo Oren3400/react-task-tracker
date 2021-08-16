@@ -2,7 +2,7 @@
 
 This project build with a mock back-end json-server watching a file db.json.
 
-deployed to heroku (cannot add tasks because the server is down): https://oren-task-tracker.netlify.app/
+deployed to netlify (cannot add tasks because the server is down): https://oren-task-tracker.netlify.app/
 
 ## You will need 4 commands.
 npm install - Install dependencies
